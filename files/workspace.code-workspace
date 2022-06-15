@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/Coding"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../css/plugins"
+		},
+		{
+			"path": "../css/webfonts"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../img/blog"
+		},
+		{
+			"path": "../img/brands"
+		},
+		{
+			"path": "../img/testimonials"
+		},
+		{
+			"path": "../img/works"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../js/plugins"
+		},
+		{
+			"path": "../scss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coding"
+	}
+}
